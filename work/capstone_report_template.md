@@ -2,7 +2,7 @@
 
 - **Author:** Aleeza Fatima
 - **Lane:** Refresh / Content Opportunity Scoring
-- **Repo:**
+- **Repo:** https://github.com/aleezafatima-21/Aleeza-flyrank-ml-internship
 - **Date:** 31st August,2026
 
 > Copy this file to `work/capstone_report.md` and fill it in as you build. Sections 1–8
