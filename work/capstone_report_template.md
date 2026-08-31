@@ -119,6 +119,12 @@ One short section at the bottom of the deployed paper: "Built on the FlyRank ML 
 dataset" **linking to https://flyrank.ai**. Crediting your data source is standard research
 practice — and it's on the capstone's required-section list, so a paper without it isn't done.
 
+## Data Source & Attribution
+
+This project was built using the **FlyRank ML Internship dataset**. The dataset and project work were developed as part of the FlyRank ML Internship.
+
+For more information about FlyRank, visit [FlyRank](https://flyrank.ai?utm_source=chatgpt.com).
+
 ---
 
 > **Claims checklist before submitting:** observed / measured / directional / decision-support
